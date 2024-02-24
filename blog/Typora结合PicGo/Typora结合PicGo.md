@@ -45,13 +45,15 @@ Typora结合PicGo + 使用Github搭建个人免费图床
 
 ![image-20240225002004129](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225002004129.png)
 
-生成token令牌，点击右上角用户头像
+点击右上角用户头像 => settings
 
 ![image-20240225002209206](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225002209206.png)
 
-往下拉，直到左侧到底，选择Developer settings
+生成token令牌，往下拉，直到左侧到底，选择Developer settings
 
 ![image-20240225002636222](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225002636222.png)
+
+按图点击
 
 ![image-20240225002702049](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225002702049.png)
 
@@ -61,11 +63,11 @@ Typora结合PicGo + 使用Github搭建个人免费图床
 
 可以给令牌(token)做个Note(标记)，然后选择令牌(token)截止时间。这里不建议选永久。基本是该图床你用到多久就选多久即可。
 
-紧接着把这个repo全部选上：
-
-![image-20240225003058110](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225003058110.png)
+选择 repo 权限，
 
 然后拉到底部，选择创建就行了。
+
+![image-20240225003058110](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225003058110.png)
 
 这个Token是你的服务器（即你的账户下的github服务器）的令牌，暂时和你的仓库还没有什么关系。
 
