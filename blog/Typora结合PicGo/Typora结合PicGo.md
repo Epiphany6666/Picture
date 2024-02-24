@@ -69,6 +69,8 @@ Typora结合PicGo + 使用Github搭建个人免费图床
 
 ![image-20240225003058110](E:\BaiduSyncdisk\other\otherByOther\blog\Typora结合PicGo\assets\image-20240225003058110.png)
 
+
+
 这个Token是你的服务器（即你的账户下的github服务器）的令牌，暂时和你的仓库还没有什么关系。
 
 然后创建完以后，就会出现一串Token字符串，你把这个Token数字复制、保存下来(可以新创一个txt文件，保存到里面)。因为你可能一会儿就见不到了。
