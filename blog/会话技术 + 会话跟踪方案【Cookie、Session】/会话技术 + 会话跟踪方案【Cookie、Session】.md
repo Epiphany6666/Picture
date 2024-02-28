@@ -279,13 +279,13 @@ A. 访问 s1 接口，http://localhost:8080/s1
 
 并且将cookie也储存起来了
 
-![image-20231028143839865](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture/blog/会话技术 + 会话跟踪方案【Cookie、Session】/assets/202402281359192.png)
+![image-20231028143839865](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture/blog/%E4%BC%9A%E8%AF%9D%E6%8A%80%E6%9C%AF%20+%20%E4%BC%9A%E8%AF%9D%E8%B7%9F%E8%B8%AA%E6%96%B9%E6%A1%88%E3%80%90Cookie%E3%80%81Session%E3%80%91/assets/202402281445143.png)
 
 
 
 B. 访问 s2 接口，http://localhost:8080/s2
 
-![image-20230112111137207](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture/blog/会话技术 + 会话跟踪方案【Cookie、Session】/assets/202402281359330.png) 
+![image-20230112111137207](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture/blog/%E4%BC%9A%E8%AF%9D%E6%8A%80%E6%9C%AF%20+%20%E4%BC%9A%E8%AF%9D%E8%B7%9F%E8%B8%AA%E6%96%B9%E6%A1%88%E3%80%90Cookie%E3%80%81Session%E3%80%91/assets/202402281448445.png) 
 
 接下来，在后续的每次请求时，都会将Cookie的值，携带到服务端，那服务端呢，接收到Cookie之后，会自动的根据JSESSIONID的值，找到对应的会话对象Session。
 
