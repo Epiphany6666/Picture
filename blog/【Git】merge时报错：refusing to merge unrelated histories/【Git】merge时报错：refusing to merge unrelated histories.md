@@ -1,6 +1,8 @@
-【Git】merge时报错：refusing to merge unrelated histories
+@[TOC]
 
-# 问题
+---
+
+# 一、问题
 
 今天将feature分支合并到master时报错：refusing to merge unrelated histories（拒绝合并无关历史）
 
@@ -10,7 +12,7 @@
 
 ---
 
-# 解决办法
+# 二、解决办法
 
 ## 1、将feature分支的东西追加到master分支中
 
