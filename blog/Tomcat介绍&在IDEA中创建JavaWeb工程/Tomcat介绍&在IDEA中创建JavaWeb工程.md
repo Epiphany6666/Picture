@@ -454,6 +454,10 @@ Tomcat的默认端口为8080，所以在浏览器的地址栏输入：`http://12
 
 ![image-20240303141537190](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403031634060.png)
 
+下图表示启动后自动打开的浏览器
+
+![image-20240303204551963](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403032045016.png)
+
 当有更新操作时，执行重新部署
 
 ![image-20240303141929714](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403031634733.png)
