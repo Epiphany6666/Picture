@@ -4,33 +4,33 @@
 
 打开官网：[Download VMware Workstation Pro](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 
-![image-20240301085212898](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010852404.png)
+![image-20240301085212898](./assets/202403010852404.png)
 
 安装步骤如下：
 
-![image-20240301085341100](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010853191.png)
+![image-20240301085341100](./assets/202403010853191.png)
 
-![image-20240301085357060](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010853167.png)
+![image-20240301085357060](./assets/202403010853167.png)
 
 这⾥更改安装⽬录，选择安装到D盘
 
-![image-20240301085418049](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010854130.png)
+![image-20240301085418049](./assets/202403010854130.png)
 
 关闭⾃动更新和客户体验计划
 
-![image-20240301085435881](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010854025.png)
+![image-20240301085435881](./assets/202403010854025.png)
 
 快捷⽅式放桌⾯
 
-![image-20240301085451745](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010854829.png)
+![image-20240301085451745](./assets/202403010854829.png)
 
 开始安装
 
-![image-20240301085508399](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010855481.png)
+![image-20240301085508399](./assets/202403010855481.png)
 
 等待安装结束
 
-![image-20240301085529748](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010855832.png)
+![image-20240301085529748](./assets/202403010855832.png)
 
 **许可证秘钥**
 
@@ -46,7 +46,7 @@ FA1M0-89YE3-081TQ-AFNX9-NKUC0
 
 **激活成功界⾯**
 
-![image-20240301085725046](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010857544.png)
+![image-20240301085725046](./assets/202403010857544.png)
 
 注意：在安装虚拟机之前需要先确认虚拟化功能是否已经打开，不同 电脑的开启⽅式不⼀样，这个需要⼤家根据⾃⼰对应品牌的笔记本到 ⽹上搜⼀下：如何开启虚拟化
 
@@ -54,7 +54,7 @@ FA1M0-89YE3-081TQ-AFNX9-NKUC0
 
 在任务栏上点击右键--任务管理器--性能--CPU，如下图
 
-![image-20240301085827544](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010858750.png)
+![image-20240301085827544](./assets/202403010858750.png)
 
 确保以及开启虚拟化、如果没有请⾃⾏百度各类电脑开启虚拟化教 程，这⾥不赘述
 
@@ -62,49 +62,49 @@ FA1M0-89YE3-081TQ-AFNX9-NKUC0
 
 选择新建
 
-![image-20240301085922599](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010859763.png)
+![image-20240301085922599](./assets/202403010859763.png)
 
 选择⾃定义⾼级
 
-![image-20240301085950005](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010859065.png)
+![image-20240301085950005](./assets/202403010859065.png)
 
 下⼀步
 
-![image-20240301090038122](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010900229.png)
+![image-20240301090038122](./assets/202403010900229.png)
 
 选择镜像⽂件与稍后安装
 
-![image-20240301090126258](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010901381.png)
+![image-20240301090126258](./assets/202403010901381.png)
 
 选择自己的操作系统，我这里以安装红帽操作系统举例
 
-![image-20240301090231392](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010902521.png)
+![image-20240303145255390](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403031452477.png)
 
 选择位置并给虚拟机命名
 
-![image-20240301090354141](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010903265.png)
+![image-20240301090354141](./assets/202403010903265.png)
 
 内核总数固定
 
-![image-20240301090417905](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010904028.png)
+![image-20240301090417905](./assets/202403010904028.png)
 
 指定虚拟机内存 4GB以上
 
-![image-20240301090441994](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010904113.png)
+![image-20240301090441994](./assets/202403010904113.png)
 
 使⽤⽹卡地址转换，对后续做静态IP配置做准备
 
-![image-20240301090503658](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010905768.png)
+![image-20240301090503658](./assets/202403010905768.png)
 
 I/O类型，磁盘类型默认
 
-![image-20240301090523405](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010905500.png)
+![image-20240301090523405](./assets/202403010905500.png)
 
-![image-20240301090547648](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010905760.png)
+![image-20240301090547648](./assets/202403010905760.png)
 
 创建新的虚拟盘
 
-![image-20240301090653775](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010906913.png)
+![image-20240301090653775](./assets/202403010906913.png)
 
 最⼤允许使⽤的磁盘空间：建议40GB、拆分多个⽂件
 
@@ -116,15 +116,15 @@ I/O类型，磁盘类型默认
 
 完成展示
 
-![image-20240301090818761](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010908998.png)
+![image-20240301090818761](./assets/202403010908998.png)
 
 选择这⾥
 
-![image-20240301090854416](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010908527.png)
+![image-20240301090854416](./assets/202403010908527.png)
 
 使⽤ISO镜像⽂件
 
-![image-20240301090950866](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010909134.png)
+![image-20240301090950866](./assets/202403010909134.png)
 
 开启虚拟机
 
@@ -134,25 +134,25 @@ I/O类型，磁盘类型默认
 
 键盘上键选择install（注意，这⾥默认是第⼆个）
 
-![image-20240301091141847](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010911179.png)
+![image-20240301091141847](./assets/202403010911179.png)
 
 语⾔选择英文
 
-![image-20240301091513805](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010915243.png)
+![image-20240301091513805](./assets/202403010915243.png)
 
 确保时区是上海
 
-![image-20240301091614502](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010916744.png)
+![image-20240301091614502](./assets/202403010916744.png)
 
 选择安装位置、选择完成即可
 
 
 
-![image-20240301091645863](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010916329.png)
+![image-20240301091645863](./assets/202403010916329.png)
 
 修改⽹络配置
 
-![image-20240301093534635](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@main/blog/%E5%AE%89%E8%A3%85Linux%E7%8E%AF%E5%A2%83/assets/202403010935067.png)
+![image-20240301093534635](./assets/202403010935067.png)
 
 打开⾃动获取IP
 
