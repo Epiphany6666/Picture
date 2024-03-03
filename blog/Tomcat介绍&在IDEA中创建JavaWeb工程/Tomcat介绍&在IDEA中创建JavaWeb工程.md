@@ -412,9 +412,15 @@ Tomcat的默认端口为8080，所以在浏览器的地址栏输入：`http://12
 
 ## 将项目部署到Tomcat中
 
-新建本地tomcat
+新建本地tomcat模板
 
-![image-20240303162118873](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403031621995.png)
+![image-20240303181916506](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403031819759.png)
+
+配置完成后直接应用，确认
+
+此时再点`+`，就会出现一个tomcat模板，点击即可
+
+![image-20240303182035529](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403031820607.png)
 
 配置tomcat
 
