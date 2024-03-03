@@ -452,6 +452,18 @@ Tomcat的默认端口为8080，所以在浏览器的地址栏输入：`http://12
 
 修改tomcat启动时打开浏览器时自动跳转到的页面的URL
 
+> 如果只写一个/，那么表名我们访问的是index.html，如果没有，就会报404.
+>
+> 验证：
+>
+> 如果我们所输入的URL后面没有接上任何的资源，它默认情况下先访问index.html，如果index.html没有，就访问index.htm，如果第二个页面没有，就会尝试去访问index.jsp，如果也没有，就会报404.
+>
+> ![image-20240303205346713](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403032053844.png)
+>
+> 如果想要让自己的页面加入进默认访问，只需要在<welcome-file-list>中将自己的页面加入进去即可
+>
+> 当然，我们也可以加入到自己的项目里去，只需要将<welcome-file-list>整个标签复制到自己Web项目的`web/WEB-INF/web.xml`文件中即可。
+
 ![image-20240303141537190](https://cdn.jsdelivr.net/gh/Epiphany6666/Picture@master/blog/Tomcat%E4%BB%8B%E7%BB%8D&%E5%9C%A8IDEA%E4%B8%AD%E5%88%9B%E5%BB%BAJavaWeb%E5%B7%A5%E7%A8%8B/assets/202403031634060.png)
 
 下图表示启动后自动打开的浏览器
